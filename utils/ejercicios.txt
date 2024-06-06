@@ -1,0 +1,3 @@
+1. Test cuando el numero es repetido
+2. Test cuando el nombre es incorrecto (no cumple el regex)
+3. test cuando el numero es incorrecto (no cumple el regex)
